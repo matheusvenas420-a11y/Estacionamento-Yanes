@@ -1,0 +1,3 @@
+/target/
+/config/firebase-chave.json
+*.class
